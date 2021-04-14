@@ -2,6 +2,7 @@
 머신러닝, 딥러닝 모델 공부
 
 ## 머신러닝
+* Supervised Learning
 1. Linear Regression
 2. Tree Based Models
     * Decision Tree
@@ -13,7 +14,14 @@
     * CatBoost
 4. Support Vector Machine
 5. Navie Baysian
-6. ANN
+6. Time Series Analysis
+7. ANN
+
+* Unsupervised Learning
+1. Dimensionality Reduction
+2. Clustering
+3. Association Rule
+4. Recommendation System
 
 ## 딥러닝
 1. DNN
